@@ -15,6 +15,7 @@ DataStructures = "0.18"
 ITensors = "=0.3.57"
 NDTensors = "=0.2.28"
 LinearAlgebra = "1.7"
+Plots = "1"
 Printf = "1.7"
 julia = "1.7"
 
