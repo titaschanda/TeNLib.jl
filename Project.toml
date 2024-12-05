@@ -16,6 +16,7 @@ ITensors = "=0.3.57"
 NDTensors = "=0.2.28"
 LinearAlgebra = "1.7"
 Printf = "1.7"
+Revise = "3"
 julia = "1.7"
 
 [extras]
